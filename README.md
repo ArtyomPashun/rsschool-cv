@@ -1,1 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
+https://artyompashun.github.io/rsschool-cv/cv
