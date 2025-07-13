@@ -1,6 +1,6 @@
 # Artsiom Pashun
 ***
-## *Junior Software Developer*
+## *Software Engineer*
 ***
 ## Contact information: 
 * [LinkedIn](https://www.linkedin.com/in/artsiom-pashun)
@@ -9,7 +9,7 @@
 
 ***
 ## *About me:*
-### Hi there! I have about a half year experience in Java web (Bank application, application for HRs),but also I would like to learn more about fronted development.
+### Hi there! I have experience in Java web (Bank application, application for HRs),but also I would like to learn more about fronted development.
 ***
 ## *Skills:*
 * Java (Core, Spring, Hibernate, JUnit)
